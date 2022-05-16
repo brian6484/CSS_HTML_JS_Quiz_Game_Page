@@ -352,15 +352,6 @@ footer button.show{
 
 } */
 
-p.normal {
-  background-image: url("excellent.jpg");
-  background-position : 150px 8px;
-}
-p.active {
-  background-image: url("above.jpg");
-  background-position : 4px 8px;
-}
-
 .result_box .buttons button{
     margin: 0 10px;
     height: 45px;
